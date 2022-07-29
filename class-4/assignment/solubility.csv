@@ -1,0 +1,11 @@
+code_name,Molecule,Minimum Degree,Molecular Weight,Number of H-Bond Donors,Number of Rings,Number of Rotatable Bonds,Polar Surface Area,smiles
+mol_1,Amigdalin,1,457.432,7,3,7,202.32,OCC3OC(OCC2OC(OC(C#N)c1ccccc1)C(O)C(O)C2O)C(O)C(O)C3O 
+mol_2,Fenfuram,1,201.225,1,2,2,42.24,Cc1occc1C(=O)Nc2ccccc2
+mol_3,citral,1,152.237,0,0,4,17.07,CC(C)=CCCC(C)=CC(=O)
+mol_4,Picene,2,278.354,0,5,0,0,c1ccc2c(c1)ccc3c2ccc4c5ccccc5ccc43
+mol_5,Thiophene,2,84.143,0,1,0,0,c1ccsc1
+mol_6,benzothiazole,2,135.191,0,2,0,12.89,c2ccc1scnc1c2 
+mol_7,"2,2,4,6,6'-PCB",1,326.437,0,2,1,0,Clc1cc(Cl)c(c(Cl)c1)c2c(Cl)cccc2Cl
+mol_8,Estradiol,1,272.388,2,4,0,40.46,CC12CCC3C(CCc4cc(O)ccc34)C2CCC1O
+mol_9,Dieldrin,1,380.913,0,5,0,12.53,ClC4=C(Cl)C5(Cl)C3C1CC(C2OC12)C3C4(Cl)C5(Cl)Cl
+mol_10,Rotenone,1,394.423,0,5,3,63.22,COc5cc4OCC3Oc2c1CC(Oc1ccc2C(=O)C3c4cc5OC)C(C)=C 
