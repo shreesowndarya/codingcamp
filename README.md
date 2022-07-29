@@ -23,10 +23,8 @@ We cover the following topics
 
 4. HPC basics + DFT workflow
     a. Rdkit, CClib, ASE
-    b. Build toy model with scikit learn
-      i. Linear
-      ii. SVM
-    c. Solubility challenge script
+    b. Bash submission scripts
+    c. Solubility challenge -> incoporate into a DFT workflow
 
 5. Misc topics
     a. Goodvibes/DBSTEP
